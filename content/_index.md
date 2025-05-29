@@ -112,7 +112,7 @@ sections:
             url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "bg-gray-100 dark:bg-gray-200"
   - block: testimonials
     content:
       title: ""
