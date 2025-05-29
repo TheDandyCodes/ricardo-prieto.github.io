@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+# date: 2023-10-24
 type: landing
 
 design:
@@ -10,14 +10,14 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
+      title: Hola buenos días
       text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
-        text: Get Started
+        text: Get Started :)
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: Read the docs :)
         url: https://docs.hugoblox.com
       announcement:
         text: "Announcing the release of version 1."
